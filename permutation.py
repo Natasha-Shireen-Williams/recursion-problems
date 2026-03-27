@@ -12,4 +12,4 @@ def permutations(n):
         
     return result   
 
-print(permutations('abc'))  
+#print(permutations('abc'))  
